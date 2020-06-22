@@ -19,4 +19,4 @@ Click back on to the 'Keyboard and Display MMIO Simulator' (Keyboard part) and s
 
 Instructions:
 Click 'f' to fly with the bird at the back.
-Click 'j' to fly with the bird at the back.
+Click 'j' to fly with the bird at the front.
